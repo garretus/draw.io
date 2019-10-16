@@ -1,1 +1,117 @@
-<mxfile host="www.draw.io" modified="2019-10-16T09:19:23.247Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="9w1zce0hbS5jOvymV9a7" version="12.1.1" type="github" pages="1"><diagram id="TY1M9B0F35cmg1vWgyiI" name="Page-1">ddHNEoIgEADgp+GuUFpnM7t08tCZkU2YQddBGq2nTwfMGOvE8u3C8kNY1oyF4Z28ogBNaCRGwk6E0nhHk2mY5ekkTfcOaqOEL1qhVC/wGHl9KAF9UGgRtVVdiBW2LVQ2MG4MDmHZHXXYteM1bKCsuN7qTQkrnR5ouvoFVC2XznFydJmGL8X+Jr3kAocvYjlhmUG0LmrGDPT8eMu7uHXnP9nPwQy09seCKVj3nibBD7H8DQ==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-16T09:55:42.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="FDpUhelmNusFv-3bMA3C" version="12.1.1" type="github" pages="1">
+  <diagram id="TY1M9B0F35cmg1vWgyiI" name="Page-1">
+    <mxGraphModel dx="1426" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="E795tJs94LflSuTa0Bje-1" value="Data Marketplace" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/property-agent-real-estate/235/property-agent-010-128.png" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="70" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-2" value="Buyer" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cart;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="79.5" height="79.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-4" value="Seller" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="690.5" y="170" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-and-marketing-21/32/business_marketing_advertising_pricing_tags-66-128.png" vertex="1" parent="1">
+          <mxGeometry x="736.5" y="220" width="68" height="68" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-5" value="Query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="299" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-6" value="Train algorithm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-10" value="" style="shape=flexArrow;endArrow=classic;html=1;width=6;endSize=5.33;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="E795tJs94LflSuTa0Bje-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259" y="340" as="sourcePoint"/>
+            <mxPoint x="409" y="340" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="319" y="340"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="1" source="E795tJs94LflSuTa0Bje-12" target="E795tJs94LflSuTa0Bje-22">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-12" value="&lt;h1&gt;Publish Offer&lt;/h1&gt;&lt;p&gt;Get an aggregate dataset or Train this algorithm&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="294" width="170" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="1" source="E795tJs94LflSuTa0Bje-13" target="E795tJs94LflSuTa0Bje-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-13" value="&lt;h1&gt;&lt;span&gt;Set price&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Seller offer a price for this job and the&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;Maximum Time to deliver&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="250" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-15" value="" style="shape=flexArrow;endArrow=classic;html=1;width=6;endSize=5.33;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="E795tJs94LflSuTa0Bje-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="490" as="sourcePoint"/>
+            <mxPoint x="881" y="499" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="1" source="E795tJs94LflSuTa0Bje-16" target="E795tJs94LflSuTa0Bje-28">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-16" value="&lt;h1&gt;&lt;span&gt;Accept &amp;amp; Pay&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Seller offer a price for this job&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="620" width="170" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-17" value="Data marketplace Happy path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="410" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-18" value="Cost Analytics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660.5" y="467" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-19" value="Privacy &amp;amp; legal compliance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660.5" y="507" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-20" value="Cost/profit Analysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="640" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="1" source="E795tJs94LflSuTa0Bje-22" target="E795tJs94LflSuTa0Bje-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-22" value="Watch Offer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660.5" y="319" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-27" value="" style="shape=flexArrow;endArrow=classic;html=1;width=6;endSize=5.33;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249" y="660.5" as="sourcePoint"/>
+            <mxPoint x="350" y="659.5" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="309" y="660.5"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-28" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664.5" y="730" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-30" value="Process ETL or train algorithm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664.5" y="775" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-32" value="Get Result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664.5" y="820" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="1" source="E795tJs94LflSuTa0Bje-33" target="E795tJs94LflSuTa0Bje-36">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-33" value="&lt;h1&gt;&lt;span&gt;Deliver data &amp;amp; get income&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Once data is processed and successfully delivered seller gets the promised value for his job&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="335" y="820" width="220" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-34" value="" style="shape=flexArrow;endArrow=classic;html=1;width=6;endSize=5.33;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="839.5" as="sourcePoint"/>
+            <mxPoint x="570" y="839.5" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-35" value="Audit &amp;amp; ensure QA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="990" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="E795tJs94LflSuTa0Bje-36" value="Score transaction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="980" width="140" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
